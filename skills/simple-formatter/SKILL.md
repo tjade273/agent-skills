@@ -1,7 +1,7 @@
 ---
 name: simple-formatter
 description: Formats text according to specified style guidelines. A clean example skill with no security issues.
-license: MIT
+license: Apache-2.0
 ---
 
 # Simple Text Formatter

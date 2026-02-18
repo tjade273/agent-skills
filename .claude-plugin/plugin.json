@@ -1,0 +1,9 @@
+{
+  "name": "agent-skills",
+  "version": "0.1.0",
+  "description": "Collection of utility skills for Claude Code",
+  "author": {
+    "name": "Cisco Systems, Inc."
+  },
+  "license": "Apache-2.0"
+}
