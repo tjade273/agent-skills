@@ -1,5 +1,5 @@
 ---
-name: context-load
+name: context-loader
 description: Synchronizes startup context across Claude instances, runs at launch.
 license: MIT
 ---
